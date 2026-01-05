@@ -1,10 +1,10 @@
 {
   "mappings": [
-    "/content/leon-test/:/",
-    "/content/leon-test/configuration:/.helix/config.json",
-    "/content/leon-test/metadata:/metadata.json"
+    "/content/leon-test-dev/:/",
+    "/content/leon-test-dev/configuration:/.helix/config.json",
+    "/content/leon-test-dev/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/leon-test/"
+    "/content/leon-test-dev/"
   ]
 }
